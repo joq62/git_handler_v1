@@ -1,0 +1,4 @@
+%% 
+-define(MainDir,"specs").
+%
+
